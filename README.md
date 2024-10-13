@@ -1,5 +1,5 @@
 # My Data Science Project Portfolio
-Hi and welcome to my data science portfolio. Here I showcase some of my projects I've completed during my data science journey.
+Hi and welcome to my data science portfolio! Here I showcase some of my projects I've completed during my data science journey.
 ## Python Projects
 | Project Link | Description | Libraries
 |--------------|-------------|----------
