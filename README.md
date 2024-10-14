@@ -8,4 +8,5 @@ Hi and welcome to my data science portfolio! Here I showcase some of my projects
 ## R Projects
 | Project Link | Description | Libraries
 |--------------|-------------|----------
-|[UK's 2015 Paris Agreement progress on charts](https://github.com/filsoch/uni-data-visualisation-module-cw.git)| This is a project for a University coursework from Data Visualisation module. |WDI, ggpubr, tidyverse
+|[UK's 2015 Paris Agreement progress on charts](https://github.com/filsoch/uni-data-visualisation-module-cw.git)| Visualising UK's progress towards 2015 Agreement on 4 charts for a Data Visualisation module coursework. |WDI, ggpubr, tidyverse
+|[Socioeconomic Deprivation and Mortality Risk](https://github.com/filsoch/uni-intro-to-data-science-cw)| In this university coursework project I build regression model to predict mortality based on 2019 English IMD indices. |KableExtra, ggplot, tidyverse, corrplot, stargazer
